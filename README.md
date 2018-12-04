@@ -1,6 +1,9 @@
 ## research-pub-log
 Record of research and other publications
 
+### 2018
+- ***Paper*** ~
+
 ### 2015
 - ****Book*** ~ Neo4j High Performance*: [Manuscript](#)
 - ****Paper*** ~ An Improved Histogram Equalization Technique for Image Contrast Enhancement*: [Manuscript](#)
