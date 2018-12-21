@@ -2,7 +2,8 @@
 Record of research and other publications
 
 ### 2019
-- ***Paper*** ~
+- ***Book*** ~
+- ***Paper*** ~ 
 
 ### 2015
 - ****Book*** ~ Neo4j High Performance*: [Manuscript](#)
